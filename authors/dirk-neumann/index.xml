@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dirk Neumann | Nicole Ludwig</title>
+    <link>https://nicoleludwig.github.io/authors/dirk-neumann/</link>
+      <atom:link href="https://nicoleludwig.github.io/authors/dirk-neumann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dirk Neumann</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>Copyright 2020 © Nicole Ludwig. This work is licensed under a Creative Commons Attribution 4.0 International license.</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nicoleludwig.github.io/images/Icon_hu040dd826dba633c49c0881b8376d931e_100103_512x512_fill_lanczos_center_2.png</url>
+      <title>Dirk Neumann</title>
+      <link>https://nicoleludwig.github.io/authors/dirk-neumann/</link>
+    </image>
+    
+    <item>
+      <title>Putting Big Data analytics to work: Feature selection for forecasting electricity prices using the LASSO and random forests</title>
+      <link>https://nicoleludwig.github.io/publication/ludwig-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nicoleludwig.github.io/publication/ludwig-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

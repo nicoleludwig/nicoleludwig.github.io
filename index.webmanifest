@@ -1,0 +1,18 @@
+{
+  "name": "Nicole Ludwig",
+  "short_name": "Nicole Ludwig",
+  "lang": "en-uk",
+  "theme_color": "#261a82",
+  "background_color": "#261a82",
+  "icons": [{
+    "src": "/images/Icon_hu040dd826dba633c49c0881b8376d931e_100103_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/Icon_hu040dd826dba633c49c0881b8376d931e_100103_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

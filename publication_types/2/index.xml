@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Nicole Ludwig</title>
+    <link>https://nicoleludwig.github.io/publication_types/2/</link>
+      <atom:link href="https://nicoleludwig.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>Copyright 2020 © Nicole Ludwig. This work is licensed under a Creative Commons Attribution 4.0 International license.</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nicoleludwig.github.io/images/Icon_hu040dd826dba633c49c0881b8376d931e_100103_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://nicoleludwig.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Data analytics in the electricity sector -- A quantitative and qualitative literature review</title>
+      <link>https://nicoleludwig.github.io/publication/vom-scheidt-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nicoleludwig.github.io/publication/vom-scheidt-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Load Forecasting Using Post-Processed Weather Ensemble Predictions</title>
+      <link>https://nicoleludwig.github.io/publication/ludwig-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nicoleludwig.github.io/publication/ludwig-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comprehensive modelling framework for demand side flexibility in smart grids</title>
+      <link>https://nicoleludwig.github.io/publication/barth-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nicoleludwig.github.io/publication/barth-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concept and benchmark results for Big Data energy forecasting based on Apache Spark</title>
+      <link>https://nicoleludwig.github.io/publication/gonzalez-ordiano-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nicoleludwig.github.io/publication/gonzalez-ordiano-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Putting Big Data analytics to work: Feature selection for forecasting electricity prices using the LASSO and random forests</title>
+      <link>https://nicoleludwig.github.io/publication/ludwig-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nicoleludwig.github.io/publication/ludwig-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
